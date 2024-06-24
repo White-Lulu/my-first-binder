@@ -1,3 +1,16 @@
+# Maxwell–Boltzmann Distribution Rates Verified with Two-Dimensional Particle Collisions
+
+## Tips
+
+- 边界长度和粒子速度的单位都是m(m/s)
+- 左图的粒子颜色：粒子速度快慢（颜色柱属于左图）；中间图直方图颜色：该速度下的粒子数所占总粒子数的比例
+- 中间图红色曲线：在设定的温度T与相对分子质量M下，理论上的麦克斯韦速率分布曲线；中间图蓝色曲线：通过粒子模拟的数据拟合与理论曲线一致的函数形式所得到的（实时）拟合曲线
+- 右图红色折线：理论曲线值与拟合曲线值的方差；右图蓝色折线：拟合曲线值与粒子实际数据值的方差
+- 由于动画帧率有限等原因，速度较大的粒子在碰撞时会出现穿模的情况..
+- 如果粒子数过少或者粒子半径过大，则数据会与理论有较大出入，导致曲线无法合理拟合，右图两个方差均会出现异常大的值
+
+## Ways to run
+
 - **无Jupyter Notebook环境→云运行：https://mybinder.org/v2/gh/White-Lulu/my-first-binder/HEAD?labpath=maxwell-ratesss.ipynb （可能会加载一会） 对应文件：maxwell-ratesss.ipynb**
   
   ![fdae67628e4397dce5b85ee64fe6af4f](https://github.com/White-Lulu/my-first-binder/assets/173527558/809f1282-e8d9-41c3-a7d2-384da49c643e)
