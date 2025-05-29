@@ -1,5 +1,9 @@
 # Maxwell–Boltzmann Distribution Rates Verified with Two-Dimensional Particle Collisions
 
+## Functionality
+- 选择粒子(强调“绘图”，而不一定是真的基本粒子)数目，粒子相对分子质量，温度，以及绘图选项（粒子半径，直方图数目）进行模拟
+- 获得粒子速度的直方图分布和拟合曲线，与理论麦克斯韦分布曲线比较
+- 
 ## Tips
 
 - 边界长度和粒子速度的单位都是m(m/s)
