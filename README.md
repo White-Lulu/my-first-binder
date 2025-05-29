@@ -28,3 +28,6 @@
   
   ![image](https://github.com/White-Lulu/my-first-binder/assets/173527558/defc67e0-993c-4cf3-b419-ffa5243ed947)
 
+## License
+This project is licensed under the [MIT License](LICENSE).
+
